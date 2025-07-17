@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it is in master
+
+this is branch  demo 1 text file
+
